@@ -10,6 +10,7 @@ public class Empresa {
 	public Empresa() {
 		this.empleados = new ArrayList<>();
 		this.proyectos = new ArrayList<>();
+		//A
 	}
 
 	public ArrayList<Empleado> getEmpleados() {
